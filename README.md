@@ -1,4 +1,4 @@
-# Tuberculosis_Analysis_2013-2024
+## Tuberculosis_Analysis_2013-2024
 
 This project presents an end-to-end data analysis of global Tuberculosis (TB) trends using WHO-based datasets. The objective is to analyze TB incidence, treatment success rates (TSR), demographic variations, and regional disparities to derive actionable public health insights.
 
@@ -46,4 +46,14 @@ This project presents an end-to-end data analysis of global Tuberculosis (TB) tr
 3. Treatment outcomes vary due to infrastructure and implementation differences.
 
 # Tools and Technologies
+1. Python - Pandas, Seaborn, Matplotlib, Numpy and Scipy(Chi-square Hyothesis Test)
+2. Jupyter Notebook
+3. Canva
+4. MS Word
 
+# Conclusion
+
+This project demonstrates how statistical analysis combined with interactive visualization can uncover meaningful public health insights. While global TB treatment programs show strong overall effectiveness, regional inequalities and systemic healthcare gaps continue to influence outcomes.
+
+# Author
+Elvis George
